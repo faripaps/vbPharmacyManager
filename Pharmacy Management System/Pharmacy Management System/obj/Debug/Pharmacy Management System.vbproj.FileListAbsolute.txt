@@ -1,0 +1,10 @@
+c:\users\software\documents\visual studio 2015\Projects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe.config
+c:\users\software\documents\visual studio 2015\Projects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.exe
+c:\users\software\documents\visual studio 2015\Projects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.pdb
+c:\users\software\documents\visual studio 2015\Projects\Pharmacy Management System\Pharmacy Management System\bin\Debug\Pharmacy Management System.xml
+c:\users\software\documents\visual studio 2015\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.vbprojResolveAssemblyReference.cache
+c:\users\software\documents\visual studio 2015\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy_Management_System.Resources.resources
+c:\users\software\documents\visual studio 2015\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.vbproj.GenerateResource.Cache
+c:\users\software\documents\visual studio 2015\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.exe
+c:\users\software\documents\visual studio 2015\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.xml
+c:\users\software\documents\visual studio 2015\Projects\Pharmacy Management System\Pharmacy Management System\obj\Debug\Pharmacy Management System.pdb
